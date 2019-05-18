@@ -8,7 +8,8 @@ def second_challenge
 
  foods = []
  foodArr = groceries.value 
- foodArr.each do ||
+ foodArr.each do |word|
+   
 
   
 
