@@ -11,6 +11,9 @@ def second_challenge
  foodArr.each do |word|
    word.each do |moreWords|
      foods << moreWords
+   end
+ end
+ 
 
   
 
