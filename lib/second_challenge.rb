@@ -13,6 +13,9 @@ def second_challenge
      foods << moreWords
    end
  end
+ foods
+ end
+ 
  
 
   
