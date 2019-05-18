@@ -9,7 +9,8 @@ def second_challenge
  foods = []
  foodArr = groceries.value 
  foodArr.each do |word|
-   
+   word.each do |moreWords|
+     
 
   
 
