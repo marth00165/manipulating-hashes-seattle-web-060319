@@ -7,7 +7,7 @@ def second_challenge
   }
 
  foods = []
- 
+ foodArr = 
 
   
 
